@@ -27,4 +27,5 @@ It allows you to create different sizes of array and adjust the animation speed 
 ![alt text](https://github.com/wayne9598/Stock-Analysis/blob/master/imgs/correlation.png?raw=true)
 
 * Machine Learning Results Example 
+
 ![alt text](https://github.com/wayne9598/Stock-Analysis/blob/master/imgs/ml.png?raw=true)
