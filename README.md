@@ -18,3 +18,13 @@ It allows you to create different sizes of array and adjust the animation speed 
 * Data Analysis
 * Machine Learning
 
+# Results
+
+* Stock Plot Example
+![alt text](https://github.com/wayne9598/Stock-Analysis/blob/master/imgs/stockplot.png?raw=true)
+
+* SP500 Correlation Heatmap (partial) 
+![alt text](https://github.com/wayne9598/Stock-Analysis/blob/master/imgs/correlation.png?raw=true)
+
+* Machine Learning Results Example 
+![alt text](https://github.com/wayne9598/Stock-Analysis/blob/master/imgs/ml.png?raw=true)
